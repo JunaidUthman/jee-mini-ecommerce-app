@@ -254,7 +254,7 @@
 
         .btn-add-cart {
             width: 100%;
-            margin-top: 3rem !important;
+            margin-top: 20px !important;
             padding: 0.7rem;
             background: #2f3640;
             color: white;
